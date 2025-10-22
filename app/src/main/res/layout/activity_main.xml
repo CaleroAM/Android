@@ -96,5 +96,13 @@
             android:textColor="#FFFFF"
             android:text="Log: ">
         </TextView>
+
+        <TextView
+            android:id="@+id/txtLog"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFF"
+            android:text="Log: ">
+        </TextView>
     </ScrollView>
 </RelativeLayout>
